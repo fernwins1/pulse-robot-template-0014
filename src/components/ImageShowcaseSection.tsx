@@ -1,6 +1,6 @@
 import React from "react";
 
-const ShowcaseSection = () => {
+const ImageShowcaseSection = () => {
   return (
     <section className="w-full pt-0 pb-8 sm:pb-12 bg-white" id="showcase">
       <div className="container px-4 sm:px-6 lg:px-8 mx-auto">
@@ -36,4 +36,4 @@ const ShowcaseSection = () => {
   );
 };
 
-export default ShowcaseSection;
+export default ImageShowcaseSection;
