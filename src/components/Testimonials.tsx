@@ -11,25 +11,25 @@ interface TestimonialProps {
 const testimonials: TestimonialProps[] = [{
   content: "Their AI automation eliminated 40 hours of manual data entry per week and helped us identify $200K in missed revenue opportunities. ROI was clear within 2 months.",
   author: "Sarah Martinez",
-  role: "CEO, GrowthTech Solutions",
+  role: "CEO, Notifyl",
   gradient: "from-blue-700 via-indigo-800 to-purple-900",
   backgroundImage: "/background-section1.png"
 }, {
   content: "We went from manually processing 50 leads per day to automatically qualifying and following up with 500+ prospects. Sales increased by 180% in 6 months.",
   author: "Michael Chen",
-  role: "Sales Director, ProService Inc",
+  role: "Sales Director, Botstock Cook Group",
   gradient: "from-indigo-900 via-purple-800 to-orange-500",
   backgroundImage: "/background-section2.png"
 }, {
   content: "The AI chatbot handles 80% of our customer inquiries perfectly, reduced response time from hours to seconds, and our customer satisfaction scores jumped 40%.",
   author: "Lisa Thompson",
-  role: "Customer Success Manager, TechFlow",
+  role: "Customer Success Manager, Retailer Live",
   gradient: "from-purple-800 via-pink-700 to-red-500",
   backgroundImage: "/background-section3.png"
 }, {
   content: "As a small business, we thought AI was out of reach. Now our inventory management is fully automated, saving 20 hours weekly and reducing stockouts by 90%.",
   author: "David Rodriguez",
-  role: "Operations Manager, LocalMart",
+  role: "Operations Manager, Discover Kazakhstan",
   gradient: "from-orange-600 via-red-500 to-purple-600",
   backgroundImage: "/background-section1.png"
 }];
