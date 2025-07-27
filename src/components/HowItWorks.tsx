@@ -1,4 +1,3 @@
-
 import React, { useEffect, useRef } from "react";
 import { cn } from "@/lib/utils";
 
@@ -48,27 +47,27 @@ const HowItWorks = () => {
   const stepsData = [
     {
       number: "01",
-      title: "Request Access",
-      description: "Fill out the application form to join our early access program and secure your spot in line.",
-      image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80"
+      title: "Discovery Call",
+      description: "Free 30-minute consultation to understand your business processes, pain points, and automation opportunities.",
+      image: "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=800&q=80"
     },
     {
       number: "02",
-      title: "Personalization",
-      description: "We'll work with you to customize Atlas to your specific needs and preferences.",
-      image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80"
+      title: "Custom Strategy",
+      description: "We analyze your workflows and create a tailored AI automation plan designed specifically for your business needs.",
+      image: "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800&q=80"
     },
     {
       number: "03",
-      title: "Integration",
-      description: "Atlas arrives at your location and is integrated into your living or working environment.",
-      image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=800&q=80"
+      title: "Development & Integration",
+      description: "Our team builds and seamlessly integrates AI solutions into your existing systems with minimal disruption.",
+      image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=800&q=80"
     },
     {
       number: "04",
-      title: "Adaptation",
-      description: "Through daily interaction, Atlas learns and adapts to your routines, preferences, and needs.",
-      image: "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=800&q=80"
+      title: "Optimization & Scale",
+      description: "Continuous monitoring, optimization, and scaling to ensure maximum ROI and business growth over time.",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80"
     }
   ];
 
@@ -116,11 +115,11 @@ const HowItWorks = () => {
       <div className="section-container">
         <div className="text-center mb-16 opacity-0 fade-in-stagger">
           <div className="pulse-chip mx-auto mb-4">
-            <span>Process</span>
+            <span>Our Process</span>
           </div>
-          <h2 className="section-title mb-4">How Atlas Integrates Into Your Life</h2>
+          <h2 className="section-title mb-4">How We Transform Your Business with AI</h2>
           <p className="section-subtitle mx-auto">
-            A seamless four-step process from request to full integration.
+            A proven four-step process from discovery to full automation and scaling.
           </p>
         </div>
         
